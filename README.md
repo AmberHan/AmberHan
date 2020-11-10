@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmberHan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmberHan)](https://github.com/anuraghazra/github-readme-stats)
 
 当前页面被访问次数：<a title="Hits" target="_blank" href="https://github.com/AmberHan/hits"><img src="https://hits.b3log.org/AmberHan/hits.svg"></a> 
 
