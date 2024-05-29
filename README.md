@@ -40,13 +40,12 @@
 
 ### 1. 发明专利
 
-- 《一种基于决策树的驾驶员疲劳等级分类方法》受理（第一著作者）,2021112132336
-- [《基于树莓派的车载驾驶员疲劳检测系统》](http://www.soopat.com/Patent/201910192287) 实审中（第一著作者）,201910192287.5
-- [《一种基于生理参数的驾驶员疲劳检测方法》](http://www.soopat.com/Patent/201910215255) 实审中，201910215255.2
+- [《一种基于决策树的驾驶员疲劳等级分类方法》](https://www.zhangqiaokeyan.com/patent-detail/06120113879516.html) 实审中,2021112132336
+- [《一种基于生理参数的驾驶员疲劳检测方法》](http://www.soopat.com/Patent/201910215255) 已授权，201910215255.2
 
 ### 2. 实用新型专利
 
-- [《棉纺防火安全服务系统》](http://www.soopat.com/Patent/201821061365) 有权，201821061365.5
+- [《棉纺防火安全服务系统》](http://www.soopat.com/Patent/201821061365) 已授权，201821061365.5
 
 ### 3. 软件著作权
 
@@ -92,15 +91,15 @@
 
 ### 1. 基于可逆逻辑的量子线路的综合与优化
 
-（2020年3月-2022年6月；毕业设计 扬州大学;[`仓库链接`](https://kns.cnki.net/kcms2/article/abstract?v=2R7H8JGA7Ex3dYDEj6VVrKCjR6ypu2hoBy_aw-qbFiwEPNhgX48hCbakWnhoTEIG0aZPZmIRF0vESLd8ingaHXbDW3M4vyAJ7rl45p2v1VygpDGUq4nDqHFSEfpc9ozY3Epaduecufnn9HFSbvYmOQ==&uniplatform=NZKPT&language=CHS)）
+（2020年3月-2022年6月；毕业设计 扬州大学;[`论文链接`](https://kns.cnki.net/kcms2/article/abstract?v=2R7H8JGA7Ex3dYDEj6VVrKCjR6ypu2hoBy_aw-qbFiwEPNhgX48hCbakWnhoTEIG0aZPZmIRF0vESLd8ingaHXbDW3M4vyAJ7rl45p2v1VygpDGUq4nDqHFSEfpc9ozY3Epaduecufnn9HFSbvYmOQ==&uniplatform=NZKPT&language=CHS)）
 
-- 基于最小权和模板匹配的 Oracle 线路优化； [`仓库链接`](https://github.com/AmberHan/OracleOptimise)。
-- 基于共享节点的 ESOP 线路优化； [`仓库链接`](https://github.com/AmberHan/EsopOptimise)
-- 基于 Grover 量子算法 0-1 背包问题线路的实现； [`仓库链接`](https://github.com/AmberHan/EsopOptimise)
+- 基于最小权和模板匹配的 Oracle 线路优化； [`仓库源码`](https://github.com/AmberHan/OracleOptimise)
+- 基于共享节点的 ESOP 线路优化； [`仓库源码`](https://github.com/AmberHan/EsopOptimise)
+- 基于 Grover 量子算法 0-1 背包问题线路的实现； [`仓库源码`](https://github.com/AmberHan/EsopOptimise)
 
 ### 2. 基于决策树的疲劳检测系统(香港项目)
 
-（2020年3月-2021年9月；组员 扬州大学;[`仓库链接`](https://github.com/AmberHan/driver)）
+（2020年3月-2021年9月；组员 扬州大学;[`仓库源码`](https://github.com/AmberHan/driver)）
 
 - 简介：采集驾驶员的面部、声音、打电话信息，以TCP的方式传到服务器进行数据存储与分析，并将分析得到的数据进行插值拟合、统一度量、规则库匹配，实现疲劳等级反馈的操作。
 - 该项目中主要负责项目中主要负责数据的存储和决策分类。
