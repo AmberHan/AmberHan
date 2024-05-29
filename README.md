@@ -60,7 +60,9 @@
 
 - [《基于STM32的棉纺防火现场数据的采集和传输的研究》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=GWDZ201905010&v=G4lKY6Y2VmPrp89X%25mmd2FMQ6F6pusHyr5uRrM%25mmd2FQHl1iQhT6tANswzXPWde5rFsaIuUPu)，第一著作人
 - [《基于云平台的棉纺防火安全服务系统设计》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=JSYW201901051&v=BOsuNl824pYEG6W94F3mqWEH9NyA1cOsBRumnzZ7kiIfBzwFuvjPg1%25mmd2FgGXBIOJEH)
-- [《求解量子逻辑电路酉矩阵的快速方法》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=LDXU202002014&v=rDTdgS21dvhInGE3XJENmDdu%25mmd2BdsRQ%25mmd2Fmdd7oJPjw0upsKx0l53DwoDgxo4AATV7Jj)
+- [《基于Cirq的Deutsch-Jozsa电路综合算法》](https://kns.cnki.net/kcms2/article/abstract?v=2R7H8JGA7EwvqcbZPnsGYk-XFtJGRbHMzMmZZ4Wg8SZ_x9XIgXbgmuSbv20DQ4wqo7RTcxPr5HFYQGFj3Llo19t3QAGoxvmdj8UKJ_4d8XA-9DhEKvDpfDbPPx0XvUWHcHW7CXnagzyrqeue79qV7g==&uniplatform=NZKPT&language=CHS)
+- [《基于最小权和模板匹配的Oracle线路优化》](https://kns.cnki.net/kcms2/article/abstract?v=2R7H8JGA7EwvqcbZPnsGYk-XFtJGRbHMzMmZZ4Wg8SZ_x9XIgXbgmheuHRmUWjHumf6ebpYipd9Fd5Q8i3C0Ke6nzk4f0SlID8DQ__1IGpZVEUN2FVS9at7nioWdo0OK5lfTOLmAXQcQqdTi7xuIjA==&uniplatform=NZKPT&language=CHS)
+
 
 ## 荣誉奖项
 
@@ -88,23 +90,24 @@
 
 ## 项目经历
 
-### 1. 领导班子测评系统
+### 1. 基于可逆逻辑的量子线路的综合与优化
 
-（2021年3月-至今；组员 扬州大学；[`1网站链接`](http://www.zqrj.net.cn:8080/zqcpxt_test)）
+（2020年3月-2022年6月；毕业设计 扬州大学;[`仓库链接`](https://kns.cnki.net/kcms2/article/abstract?v=2R7H8JGA7Ex3dYDEj6VVrKCjR6ypu2hoBy_aw-qbFiwEPNhgX48hCbakWnhoTEIG0aZPZmIRF0vESLd8ingaHXbDW3M4vyAJ7rl45p2v1VygpDGUq4nDqHFSEfpc9ozY3Epaduecufnn9HFSbvYmOQ==&uniplatform=NZKPT&language=CHS)）
 
-- 简介：领导班子进行考核测评。用户名：test1    密码  Yzu12345
-- 该项目中主要负责部分前端和数据库存储过程的书写。
+- 基于最小权和模板匹配的 Oracle 线路优化； [`仓库链接`](https://github.com/AmberHan/OracleOptimise)。
+- 基于共享节点的 ESOP 线路优化； [`仓库链接`](https://github.com/AmberHan/EsopOptimise)
+- 基于 Grover 量子算法 0-1 背包问题线路的实现； [`仓库链接`](https://github.com/AmberHan/EsopOptimise)
 
 ### 2. 基于决策树的疲劳检测系统(香港项目)
 
-（2020年3月-2021年9月；组员 扬州大学
+（2020年3月-2021年9月；组员 扬州大学;[`仓库链接`](https://github.com/AmberHan/driver)）
 
 - 简介：采集驾驶员的面部、声音、打电话信息，以TCP的方式传到服务器进行数据存储与分析，并将分析得到的数据进行插值拟合、统一度量、规则库匹配，实现疲劳等级反馈的操作。
 - 该项目中主要负责项目中主要负责数据的存储和决策分类。
 
 ### 3. 十野物流管理系统
 
-（2019年12月-至今；组员 扬州大学；[`1网站链接`](http://58.192.138.113/FundsManagement/html/login.html)）
+（2019年12月-2021年2月；组员 扬州大学；[`网站链接`](http://58.192.138.113/FundsManagement/html/login.html)）
 
 - 简介：管理物流的订单处理、审批、修改；财务报表的统计、下载；动态页面、权限管理。用户名：admin	密码  123
 - 业务逻辑复杂，数据量大；所以绝大部分业务在SQL数据库里采用存储过程解决；前端使用easyui框架；后台采用C#；
@@ -112,7 +115,7 @@
 
 ### 4. 扬州大学虚拟仿真实验平台
 
-（2019年9月-2020年2月；组长 扬州大学；[`2仓库源码`](https://github.com/AmberHan/virtual-simulation-experiment)）
+（2019年9月-2020年2月；组长 扬州大学；[`仓库源码`](https://github.com/AmberHan/virtual-simulation-experiment)）
 
 - 简介：学生在家可以访问学校物联网试验箱，进行实验，通过在线编程，将代码烧录到试验箱中，再在网页查看实验信息；
 - 数据采用MQTT通信、网站使用WebSocket连接、主从机采用ZigBee通信；
@@ -120,7 +123,7 @@
 
 ### 5. 基于物联网的车载疲劳驾驶预警系统
 
-（2018年12月 - 2019年5月；队员 扬州大学；[`3仓库源码`](https://github.com/AmberHan/GPRS_GPS_Heart_TGAM_Camera)）
+（2018年12月 - 2019年5月；队员 扬州大学；[`仓库源码`](https://github.com/AmberHan/GPRS_GPS_Heart_TGAM_Camera)）
 
 - 简介：针对驾驶员疲劳时的生理参数、行为，行驶轨迹及驾驶时长，建立了疲劳判定模型及对应的评估体系；
 - 该课题已经获得扬州大学第十届“挑战杯”课外学术科技作品竞赛校特等奖,已产生多篇专利及软著；
@@ -128,21 +131,21 @@
 
 ### 6. 网络考试系统数据加密技术的设计与研究
 
-（2018年6月 - 2018年7月；组员 物联网安全导论课程设计；[`4仓库源码`](https://github.com/AmberHan/DES_RES)）
+（2018年6月 - 2018年7月；组员 物联网安全导论课程设计；[`仓库源码`](https://github.com/AmberHan/DES_RES)）
 
 - 简介：研究了传统的对称密钥加密和非对称密钥加密技术，包括对DES算法，RSA算法的分析，实现了一种基于DES和RSA算法的混合加密算法；
 - 并且在模拟加密系统中实现了3种算法的加密和解密，同时还包括以文件浏览的方式对3种加密算法进行验证实现，从而能够更安全的进行网络数据传输。
 
 ### 7. 基于ZigBee的烟雾、红外检测远程报警系统
 
-（2018年5月 - 2018年6月；组长 物联网工程与设计课程设计；[`5仓库源码`](https://github.com/AmberHan/curriculum-design)）
+（2018年5月 - 2018年6月；组长 物联网工程与设计课程设计；[`仓库源码`](https://github.com/AmberHan/curriculum-design)）
 
 - 简介：通过气敏传感器节点和红外热释传感器节点实时检测当前的烟雾数据、有毒气体情况和有无人员情况，通过主从机通信，实现数据的数据库上传和短信报警；
 - 在此课题中主要负责GPRS模块的短信报警以及底层数据的发送，以第一作者身份申请了一篇软件著作权。
 
 ### 8. 基于云平台的棉纺防火安全系统关键技术研究
 
-（2017年3月 - 2018年5月；队员 扬州大学；[`6仓库源码`](https://github.com/AmberHan/STM32F4_Send)）
+（2017年3月 - 2018年5月；队员 扬州大学；[`仓库源码`](https://github.com/AmberHan/STM32F4_Send)）
 
 - 简介：基于ARM Cortex-M4为内核并以STM32F407ZGT6微控制器为核心，实现了棉纺防火现场数据的采集与传输，云端的监控；
 - 采集的空气温湿度、机器工作的三相电压、电流信息；利用nRF24L01模块，实现主从机通信，最后主机通过GPRS模块上传数据和短信报警；
@@ -159,18 +162,3 @@
   
 - 信息工程学院学生会 学习部 部长（2015年9月 - 2017年6月）
   负责学院考核制度的落实。
-
-<!--
-**AmberHan/AmberHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
